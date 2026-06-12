@@ -27,3 +27,26 @@ def delete_task():
         else:
             print("Invalid choice")
 
+def main()
+    while True:
+        print("Welcome to To-Do App")
+        print("1. Add task")
+        print("2. View task")
+        print("3. Delete task")
+        print("4. Exit")
+
+        choice = int(input("Enter your choice."))
+        if choice == 1:
+            add_task()
+        elif choice == 2:
+            view_task()
+        elif choice == 3:
+            delete_task()
+        elif choice == 4:
+            print("Thank you for using the To-Do App")
+            break
+        else:
+            print("Invalid choice")
+
+if __name__ == "__main__":
+    main()
