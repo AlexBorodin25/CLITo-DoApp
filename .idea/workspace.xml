@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59a971ca-76e6-4ef3-8573-dfdd717822cd" name="Changes" comment="Removed .idea">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CLITo-DoApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_12_2026_4_36_PM_[Changes]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_6_12_2026_4_36_PM__Changes_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="9" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Banarog&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Banarog/CLITo-DoApp.git&quot;,
+    &quot;accountId&quot;: &quot;1eccda67-5a13-465e-b09d-861f8916fc69&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.001325821963897" />
+      <entry key="MS500" value="1.3877294915054943" />
+      <entry key="S2" value="2.34460496864074" />
+      <entry key="S5" value="3.249593800170183" />
+      <entry key="S10" value="4.561223812001106" />
+      <entry key="S30" value="7.7938677346448255" />
+      <entry key="S60" value="10.154980924951886" />
+      <entry key="M2" value="13.742570118723112" />
+      <entry key="M5" value="21.826241984345916" />
+      <entry key="M10" value="28.793519294944844" />
+      <entry key="M15" value="32.25484495544856" />
+      <entry key="M30" value="36.57140251357937" />
+      <entry key="H1" value="39.12764226102472" />
+      <entry key="H2" value="40.52161710494402" />
+      <entry key="H4" value="41.249899975270225" />
+      <entry key="D1" value="41.873436845897146" />
+      <entry key="W1" value="41.981881259561426" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9739532930493935" />
+      <entry key="MS500" value="1.3804206487283281" />
+      <entry key="S2" value="2.3416077919906866" />
+      <entry key="S5" value="3.247892590414332" />
+      <entry key="S10" value="4.559878309533379" />
+      <entry key="S30" value="7.792760977307148" />
+      <entry key="S60" value="10.154105548646987" />
+      <entry key="M2" value="13.741579679240225" />
+      <entry key="M5" value="21.824079115415454" />
+      <entry key="M10" value="28.791089676357085" />
+      <entry key="M15" value="32.2526890086085" />
+      <entry key="M30" value="36.569959005702465" />
+      <entry key="H1" value="39.12680542882102" />
+      <entry key="H2" value="40.5211663691249" />
+      <entry key="H4" value="41.24966604110326" />
+      <entry key="D1" value="41.8733966236963" />
+      <entry key="W1" value="41.98187548275151" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3F2k3JkIyumFuq0wQbFLWdN3kPY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.To-DoApp.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="To-DoApp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CLITo-DoApp" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/To-DoApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.To-DoApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59a971ca-76e6-4ef3-8573-dfdd717822cd" name="Changes" comment="" />
+      <created>1781280353689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1781280353689</updated>
+      <workItem from="1781280354714" duration="8454000" />
+      <workItem from="1781296403885" duration="1212000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added main() function">
+      <option name="closed" value="true" />
+      <created>1781283419372</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1781283419372</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added load_tasks and save_tasks functions">
+      <option name="closed" value="true" />
+      <created>1781285249736</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1781285249736</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added complete_tasks function">
+      <option name="closed" value="true" />
+      <created>1781286616860</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1781286616860</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added complete_tasks function">
+      <option name="closed" value="true" />
+      <created>1781287861945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1781287861945</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finalized and fixed issues">
+      <option name="closed" value="true" />
+      <created>1781287946259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1781287946259</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finalized and fixed issues">
+      <option name="closed" value="true" />
+      <created>1781289592922</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1781289592922</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixed main menu crashing">
+      <option name="closed" value="true" />
+      <created>1781296575470</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1781296575470</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed main menu crashing">
+      <option name="closed" value="true" />
+      <created>1781296601612</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1781296601612</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed complete_task function">
+      <option name="closed" value="true" />
+      <created>1781297043911</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1781297043911</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Removed .idea">
+      <option name="closed" value="true" />
+      <created>1781297328463</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1781297328463</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added main() function" />
+    <MESSAGE value="Added load_tasks and save_tasks functions" />
+    <MESSAGE value="Added complete_tasks function" />
+    <MESSAGE value="Finalized and fixed issues" />
+    <MESSAGE value="Fixed main menu crashing" />
+    <MESSAGE value="Fixed complete_task function" />
+    <MESSAGE value="Removed .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed .idea" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CLITo_DoApp$To_DoApp.coverage" NAME="To-DoApp Coverage Results" MODIFIED="1781296973109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
