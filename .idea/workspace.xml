@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59a971ca-76e6-4ef3-8573-dfdd717822cd" name="Changes" comment="Added complete_tasks function">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To-DoApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/To-DoApp.py" afterDir="false" />
-    </list>
+    <list default="true" id="59a971ca-76e6-4ef3-8573-dfdd717822cd" name="Changes" comment="Finalized and fixed issues" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,7 +289,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781280353689</updated>
-      <workItem from="1781280354714" duration="7297000" />
+      <workItem from="1781280354714" duration="7598000" />
     </task>
     <task id="LOCAL-00001" summary="Added main() function">
       <option name="closed" value="true" />
@@ -318,7 +315,23 @@
       <option name="project" value="LOCAL" />
       <updated>1781286616860</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added complete_tasks function">
+      <option name="closed" value="true" />
+      <created>1781287861945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1781287861945</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finalized and fixed issues">
+      <option name="closed" value="true" />
+      <created>1781287946259</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1781287946259</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -328,9 +341,10 @@
     <MESSAGE value="Added main() function" />
     <MESSAGE value="Added load_tasks and save_tasks functions" />
     <MESSAGE value="Added complete_tasks function" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added complete_tasks function" />
+    <MESSAGE value="Finalized and fixed issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalized and fixed issues" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CLITo_DoApp$To_DoApp.coverage" NAME="To-DoApp Coverage Results" MODIFIED="1781287620235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CLITo_DoApp$To_DoApp.coverage" NAME="To-DoApp Coverage Results" MODIFIED="1781287923866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
