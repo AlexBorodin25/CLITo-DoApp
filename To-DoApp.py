@@ -1,4 +1,17 @@
+import os
+
 tasks = "tasks.txt"
+
+def load_tasks():
+    if not os.path.exists(tasks):
+        return []
+    with open(tasks, "r") as f:
+        return [line.strip() for line in f.readlines()]
+
+def save_tasks(tasks):
+    with open(tasks, "w") as f:
+        for task in tasks:
+            f.write(task+"\n")
 
 def add_task():
     task = input("Enter new task: ")
@@ -27,7 +40,7 @@ def delete_task():
         else:
             print("Invalid choice")
 
-def main()
+def main():
     while True:
         print("Welcome to To-Do App")
         print("1. Add task")
@@ -47,6 +60,7 @@ def main()
             break
         else:
             print("Invalid choice")
+
 
 if __name__ == "__main__":
     main()
