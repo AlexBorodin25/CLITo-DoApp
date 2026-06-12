@@ -75,7 +75,12 @@ def main():
         print("4. Complete task")
         print("5. Exit")
 
-        choice = int(input("Enter your choice."))
+        try:
+            choice = int(input("Enter your choice."))
+        except ValueError:
+            print("Enter a valid number")
+            continue
+
         if choice == 1:
             add_task(task_list)
         elif choice == 2:
