@@ -15,6 +15,7 @@ def save_tasks(task_list):
 
 def complete_task(task_list):
     view_tasks(task_list)
+
     if not task_list:
         return
     try:
@@ -25,6 +26,8 @@ def complete_task(task_list):
                 save_tasks(task_list)
                 print("Task completed")
             else:
+                print("Task is already completed")
+        else:
                 print("Invalid choice")
     except ValueError:
         print("Enter a valid number")
